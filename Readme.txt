@@ -18,4 +18,7 @@ There is a special eigenvector r which has entries in [0,1] such that M r = r.  
 eigenvector with eigenvalue 1.  This r gives the probabilities of landing on a certain
 team.
 
+This requires numpy to run!  Make sure you have numpy installed to do the eigenvector
+calculations.
+
 Anthony Mendes (aamendes@calpoly.edu)
