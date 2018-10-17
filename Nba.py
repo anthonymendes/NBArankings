@@ -5,9 +5,9 @@ from numpy import *
 
 print("Running NBA power ranking code.  Please wait while 30 web pages load...")
 
-Teams = ["ATL","BOS","BRK","CHO","CHI","CLE","DAL","DEN","DET","GSW","HOU","IND","LAC","LAL",
-         "MEM","MIA","MIL","MIN","NOP","NYK","OKC","ORL","PHI","PHO","POR","SAC","SAS","TOR",
-         "UTA","WAS"]
+Teams = ["ATL","BOS","BRK","CHO","CHI","CLE","DAL","DEN","DET","GSW",
+         "HOU","IND","LAC","LAL","MEM","MIA","MIL","MIN","NOP","NYK",
+         "OKC","ORL","PHI","PHO","POR","SAC","SAS","TOR","UTA","WAS"]
 
 matrix = []
 
