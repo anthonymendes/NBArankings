@@ -1,4 +1,4 @@
-# python2.7 code to rank NBA teams; written by Tony Mendes (aamendes@calpoly.edu)
+# python2.7 code to rank NBA teams
 import urllib, re
 from numpy import *
 
